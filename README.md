@@ -1,7 +1,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 <br><br>
-## 👨‍💻 About Me
+🧑 About Me :
+_________________________________________________________________________________________________________________
 <br>👋 Hi, I'm Bharath<br>🎓 MCA Student at Acharya Nagarjuna University, Guntur<br>💼 Learning web Technologies<br>🌱 Currently learning HTML<br>🔭 Working on real-world web apps and personal projects<br>👯 Open to collaborating on web development & open source projects<br>💬 Ask me about HTML, CSS, JavaScript, Python & web technologies<br>⚡ Fun fact: I love turning ideas into real-world applications<br>📫 Reach me at: bharathdolai5@gmail.com<br><br>
 
 
