@@ -50,30 +50,25 @@
 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ! ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
----
-<!-- Snake Game Repo View -->
+### 💻My Skills
+___________________________________________________________________________________________________________________
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br clear="both">
+
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" alt="cplusplus logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
 </div>
-## 📊 GitHub Stats
-<div align="center">
+______________________________________________________________________________________________________________________
 
-<!-- Overall Stats (includes total commits) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Dolai Bharath&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=3DDC84&text_color=FFFFFF&count_private=true" />
-
-<!-- Streak Stats (current + longest streak) -->
-<img src="https://streak-stats.demolab.com?user=Dolai Bharath
-&theme=dark&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=FFFFFF" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolai Bharath&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=3DDC84" />
-
-</div>
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dolai Bharath&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
