@@ -72,4 +72,7 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
 </div>
 ______________________________________________________________________________________________________________________
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DolaiBharath&theme=react-dark)
 
